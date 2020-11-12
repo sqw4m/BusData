@@ -1,0 +1,33 @@
+﻿@model Pachkoriya_HW09.Models.Passenger
+
+@{
+    ViewBag.Title = "Удалить";
+}
+
+<h3 class="text-center">Вы уверены что хотите удалить пассажира?</h3>
+<div>
+    <hr />
+    <p class="text-justify text-center">
+        Фамилия, инициалы: <b>@Model.SurnameNP</b>
+    </p>
+    <p class="text-justify text-center">
+        Год рождения: <b>@Model.BirthYear</b>
+    </p>
+    <p class="text-justify text-center">
+        Рост: <b>@Model.Height</b>
+    </p>
+    <p class="text-justify text-center">
+        Вес: <b>@Model.Weight</b>
+    </p>
+    <p class="text-justify text-center">
+        Место: <b>@Model.SeatNumber</b>
+    </p>
+    <form asp-action="DeletePassenger" asp-route-seatNumber="@Model.SeatNumber">
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-danger" />
+            <a class="btn btn-primary float-right" asp-controller="Bus" asp-action="Index">
+                Назад
+            </a>
+        </div>
+    </form>
+</div>

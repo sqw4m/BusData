@@ -1,0 +1,54 @@
+﻿@model Pachkoriya_HW09.Models.Passenger
+@{
+    ViewData["Title"] = "Добавление нового пассажира";
+}
+
+<main class="container">
+    <section class="row">
+        <article class="offset-1 col-10 bg-light">
+            <br />
+            <form asp-action="AddPassenger">
+                <h2 class="text-center">Добавить пассажира:</h2>
+                <br />
+                <span asp-validation-for="SurnameNP" class="text-danger"></span><br />
+                <div class="input-group mb-3 text-center">
+                    <div class="input-group-prepend">
+                        <label asp-for="SurnameNP" class="input-group-text" id="inputGroup-sizing-default"></label>
+                    </div>
+                    <input asp-for="SurnameNP" class="form-control" />
+                </div>
+                <span asp-validation-for="BirthYear" class="text-danger"></span><br />
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label asp-for="BirthYear" class="input-group-text" id="inputGroup-sizing-default"></label>
+                    </div>
+                    <input asp-for="BirthYear" class="form-control" />
+                </div>
+                <span asp-validation-for="Height" class="text-danger"></span><br />
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label asp-for="Height" class="input-group-text" id="inputGroup-sizing-default"></label>
+                    </div>
+                    <input asp-for="Height" class="form-control" />
+                </div>
+                <span asp-validation-for="Weight" class="text-danger"></span><br />
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label asp-for="Weight" class="input-group-text" id="inputGroup-sizing-default"></label>
+                    </div>
+                    <input asp-for="Weight" class="form-control" />
+                </div>
+                <br />
+                <input class="btn btn-success" type="submit" value="Сохранить" />
+                <a class="btn btn-primary float-right" asp-controller="Bus" asp-action="Index">
+                    Назад
+                </a>
+            </form>
+            <br />
+        </article>
+    </section>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>

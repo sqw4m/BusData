@@ -1,0 +1,163 @@
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005710
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001652
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005677
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001616
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005800
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.TestError (Pachkoriya_HW09) затрачено 00:00:00.0002786
+Message: Object reference not set to an instance of an object.
+
+Stack Trace:    at Pachkoriya_HW09.Controllers.BusController.TestError() in C:\Gosh\Шаг\86 Занятие\09 Занятие СПУ811 31.10.2020 ASP.NET\Pachkoriya_HW09\Pachkoriya_HW09\Controllers\BusController.cs:line 96
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001491
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0007785
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001577
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005681
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001595
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0006407
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001533
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0008419
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0010940
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001575
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0010100
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001465
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005785
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001588
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005676
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001473
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005869
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001491
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0006503
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001489
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0006004
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001486
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005712
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001574
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0006403
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001604
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005735
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001619
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005885
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001477
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005760
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001504
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005489
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001451
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005590
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001597
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005849
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001431
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.TestError (Pachkoriya_HW09) затрачено 00:00:00.0005936
+Message: Object reference not set to an instance of an object.
+
+Stack Trace:    at Pachkoriya_HW09.Controllers.BusController.TestError() in C:\Gosh\Шаг\86 Занятие\09 Занятие СПУ811 31.10.2020 ASP.NET\Pachkoriya_HW09\Pachkoriya_HW09\Controllers\BusController.cs:line 96
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000818
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.SortPassengersBySurnameNP (Pachkoriya_HW09) затрачено 00:00:00.0001308
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000984
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.SortPassengersBySeatNumber (Pachkoriya_HW09) затрачено 00:00:00.0001199
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000559
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.AddPassenger (Pachkoriya_HW09) затрачено 00:00:00.0001259
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000490
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.EditBus (Pachkoriya_HW09) затрачено 00:00:00.0003155
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000456
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0005941
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001521
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.TestError (Pachkoriya_HW09) затрачено 00:00:00.0003806
+Message: Object reference not set to an instance of an object.
+
+Stack Trace:    at Pachkoriya_HW09.Controllers.BusController.TestError() in C:\Gosh\Шаг\86 Занятие\09 Занятие СПУ811 31.10.2020 ASP.NET\Pachkoriya_HW09\Pachkoriya_HW09\Controllers\BusController.cs:line 96
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000578
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0006225
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001493
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0012097
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001768
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0007686
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001827
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0006583
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001632
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (Pachkoriya_HW09) затрачено 00:00:00.0011411
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0001599
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.SortPassengersBySurnameNP (Pachkoriya_HW09) затрачено 00:00:00.0001351
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000613
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.AddPassenger (Pachkoriya_HW09) затрачено 00:00:00.0001358
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (Pachkoriya_HW09) затрачено 00:00:00.0000839
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (BusData) затрачено 00:00:00.0007788
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (BusData) затрачено 00:00:00.0002109
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.TestError (BusData) затрачено 00:00:00.0227692
+Message: Object reference not set to an instance of an object.
+
+Stack Trace:    at Pachkoriya_HW09.Controllers.BusController.TestError() in C:\Gosh\ASP.NET Core\Pachkoriya_HW09\Controllers\BusController.cs:line 96
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (BusData) затрачено 00:00:00.0000828
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (BusData) затрачено 00:00:00.0000956
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (BusData) затрачено 00:00:00.0000577
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (BusData) затрачено 00:00:00.0000529
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.TestError (BusData) затрачено 00:00:00.0001794
+Message: Object reference not set to an instance of an object.
+
+Stack Trace:    at Pachkoriya_HW09.Controllers.BusController.TestError() in C:\Gosh\ASP.NET Core\Pachkoriya_HW09\Controllers\BusController.cs:line 96
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+На выполнение метода Pachkoriya_HW09.Controllers.BusController.Index (BusData) затрачено 00:00:00.0000825
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (BusData) затрачено 00:00:00.0000557
+На выполнение метода Pachkoriya_HW09.Controllers.HomeController.Index (BusData) затрачено 00:00:00.0005979
